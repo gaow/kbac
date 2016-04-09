@@ -1,0 +1,2 @@
+useDynLib(KBAC)
+export(KbacTest)
