@@ -3,7 +3,7 @@ Version: 0.01
 Date: 2011-04-12
 Title: KBAC statistic for association testing
 Author: Gao Wang and Dajiang Liu
-Maintainer: Gao Wang <gaow@uchicago.edu>  
-Depends: R (>= 2.9.0) 
-Description: see doi:10.1371/journal.pgen.1001156  
+Maintainer: Gao Wang <gaow@uchicago.edu>
+Depends: R (>= 2.9.0)
+Description: see doi:10.1371/journal.pgen.1001156
 License: MIT
